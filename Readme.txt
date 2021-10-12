@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+This is the Kapalin Technologies website 
 
-Template Name: eBusiness
+
 Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author: Kaplintech.com
+
