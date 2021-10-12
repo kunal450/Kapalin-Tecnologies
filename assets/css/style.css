@@ -466,6 +466,13 @@ div#preloader {
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
 }
+.kapLogo{
+  width: 5vw;
+  height: 5vh;
+  display: inline;
+  align-self: flex-start;
+  opacity: 100%;
+}
 
 /*--------------------------------------------------------------
 # Hero Section
